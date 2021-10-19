@@ -1,6 +1,6 @@
 # AIプログラミング
 
-講義「AIプログラミング」で使用する教材です。
+講義「[AIプログラミング](https://syllabus.hosei.ac.jp/web/preview.php?nendo=2021&t_mode=sp&template=&no_id=2102033&gakubu_id=%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E5%B7%A5%E5%AD%A6%E9%83%A8&gakubueng=AN)」で使用する教材です。
 
 第1回：人工知能の概要  
 人工知能の分類、歴史、開発環境
